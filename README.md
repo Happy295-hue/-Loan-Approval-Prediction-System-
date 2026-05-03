@@ -97,9 +97,9 @@ Financial institutions face significant losses due to loan defaults. This projec
 
 ## Screenshots
 
- ![NLP Query Processor](assets/screenshots/nlq_processor.png) 
- ![Streamlit App](assets/screenshots/streamlit_app.png) 
- ![Correlation Matrix](assets/screenshots/correlation_matrix.png) 
+ ![NLP Query Processor](Assets/Screenshots/nlq_processor.png) 
+ ![Streamlit App](Assets/Screenshots/streamlit_app.png) 
+ ![Correlation Matrix](Assets/Screenshots/correlation_matrix.png) 
 
 ---
 
