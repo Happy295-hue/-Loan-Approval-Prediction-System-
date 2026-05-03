@@ -12,7 +12,7 @@ End-to-end ML classification system with NLP-based querying and Streamlit deploy
 
 ## Problem Statement
 
-Financial institutions face significant losses due to loan defaults. This project builds a complete machine learning system to predict whether a loan application will be approved — enabling lenders to make smarter, data-driven credit decisions. A key feature is an NLP-based query interface that allows non-technical users to interrogate the loan dataset using plain English.
+Financial institutions face significant losses due to loan defaults. This project builds a complete machine learning system to predict whether a loan application will be approved enabling lenders to make smarter, data-driven credit decisions. A key feature is an NLP-based query interface that allows non-technical users to interrogate the loan dataset using plain English.
 
 ---
 
