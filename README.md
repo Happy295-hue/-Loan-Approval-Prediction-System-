@@ -124,6 +124,8 @@ streamlit run app.py
 
 ---
 
+"Dataset stored locally in MongoDB — see the notebook for full analysis and screenshots for app demo"
+
 ## Author
 
 **Harshit Saraf**
